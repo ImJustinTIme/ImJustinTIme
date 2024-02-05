@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on revamping my personal website
-- 🎉 Just recently launched [justink.photo](https://www.justink.photo) check it out!
-- 🌱 I’m currently learning Sveltkit
-- 📫 How to reach me: jkuennen@proton.me
+- 🎉 Just recently launched a gallery site at [justink.photo](https://www.justink.photo) check it out!
+- 🌱 New Personal Hubsite in the works at [codejustin.dev](https://codejustin.dev)
+- 📫 How to reach me: codejustin@proton.me
+- 
